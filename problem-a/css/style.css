@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(200, 233, 255);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  max-width: 560pt;
+}
+
+img {
+  width: 550px;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.important {
+  color: rgb(255, 153, 0);
+}
